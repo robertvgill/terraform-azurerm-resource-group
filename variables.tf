@@ -5,7 +5,7 @@ variable "resource_group_create" {
 }
 
 variable "resource_group_name" {
-  description = "The name of the resource group in which to create the storage account."
+  description = "The name of the resource group."
   default     = {}
 }
 
